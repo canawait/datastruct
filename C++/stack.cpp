@@ -1,4 +1,4 @@
 class stack{
-  public:
+public:
     
 }
